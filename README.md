@@ -18,13 +18,15 @@
     <a href="https://www.linkedin.com/in/horaceyi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hongrui Yi-0079FF.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Zhihu">
   </a>
-  <a href="https://github.com/horaceyi">
- <img src="https://img.shields.io/badge/-SW249535691301-E60012?style=flat-square&logo=Nintendo-Switch&logoColor=FFFFFF">
-</a>
- <a>
+ <p align="center">
+  <a>
   <a href="https://steamcommunity.com/id/horaceyi/"> 
  <img src="https://img.shields.io/badge/@Horace-1DA1F2?style=flat-square&logo=Steam&logoColor=black" alt="steam"/>
   </a>
+  <a href="https://github.com/horaceyi">
+ <img src="https://img.shields.io/badge/-SW249535691301-E60012?style=flat-square&logo=Nintendo-Switch&logoColor=FFFFFF">
+</a>
+
 </p>
 
 🌱 Currently I'm a M.S.E. majoring in ECE @ [Johns Hopkins University](https://www.jhu.edu/), MD. In April 2023, I got my B.S. at [University of Cincinnati](https://www.ec.edu), OH and [Chongqing University](https://english.cqu.edu.cn), China. 
