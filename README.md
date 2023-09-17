@@ -28,8 +28,8 @@
 
 🌱 Currently I'm a M.S.E. majoring in ECE @ [Johns Hopkins University](https://www.jhu.edu/), MD. In April 2023, I got my B.S. at [University of Cincinnati](https://www.ec.edu), OH and [Chongqing University](https://english.cqu.edu.cn), China. 
 
-<p>
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
+<p align="center">
 <img alt="C++" src="https://img.shields.io/badge/-C++-525288?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-Python-74787a?style=flat-square&logo=python&logoColor=white" />
 <img alt="html" src="https://img.shields.io/badge/-html-d2d97a?style=flat-square&logo=html5&logoColor=white" />
