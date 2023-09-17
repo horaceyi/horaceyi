@@ -46,13 +46,6 @@
 <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-b7ae8f?style=flat-square&logo=Pycharm&logoColor=white" />
 
 </p>
-</details>
 
-<strong>My Weekly Coding Activity</strong>
-
-<img src="https://github.com/preminstrel/preminstrel/blob/main/images/stat.svg" alt="Preminstrel WakaTime Activity"/>
-
-
-<strong>Useful Links 📫</strong>
-* [Page](https://preminstrel.github.io)
-* [Blog](https://preminstrel.github.io/blog/) 
+<strong>Personal Page 📫</strong>
+* [Page](https://horaceyi.com)
