@@ -48,5 +48,9 @@
 <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-b7ae8f?style=flat-square&logo=Pycharm&logoColor=white" />
 </p>
 
+<details><summary>More GitHub Info</summary>
+ <img src="https://github.com/horaceyi/horaceyi/blob/main/github-metrics.svg" alt="Metrics"/>
+</details>
+
 <strong>Personal Page 📫</strong>
 * [Page](https://horaceyi.com)
