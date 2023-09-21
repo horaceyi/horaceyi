@@ -11,7 +11,6 @@
  <a href="mailto:hongrui.yee@gmail.com">
  <img src="https://img.shields.io/badge/-hongrui.yee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hongrui.yee@gmail.com">
 </a>
- <a>
   <a href="https://www.zhihu.com/people/horaceyi" target="_blank">
     <img src="https://img.shields.io/badge/知乎-Horace-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu">
   </a>
@@ -19,7 +18,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Hongrui Yi-0079FF.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Zhihu">
   </a>
  <p align="center">
-  <a>
+   <a href="https://instagram.com/horaceyi15?igshid=MzMyNGUyNmU2YQ==" target="_blank">
+ <img src="https://img.shields.io/badge/Instagram-Hongrui%20Yi-E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   <a href="https://steamcommunity.com/id/horaceyi/"> 
  <img src="https://img.shields.io/badge/@Horace-1DA1F2?style=flat-square&logo=Steam&logoColor=black" alt="steam"/>
   </a>
