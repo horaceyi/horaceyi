@@ -29,7 +29,7 @@
 
 </p>
 
-🌱 Currently I'm a Ph.D student majoring in ECE @ [Johns Hopkins University](https://www.jhu.edu/), MD. In April 2023, I got my B.S. at [University of Cincinnati](https://www.ec.edu), OH and [Chongqing University](https://english.cqu.edu.cn), China. 
+🌱 Currently I'm a Ph.D student majoring in ECE @ [Johns Hopkins University](https://www.jhu.edu/). I got my M.S. at [Johns Hopkins University](https://www.jhu.edu/) and B.S. at [University of Cincinnati](https://www.ec.edu), OH and [Chongqing University](https://english.cqu.edu.cn), China. 
 
 <p>
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
